@@ -1,32 +1,14 @@
 {
-    "1": {
-        "title": "The Briefing",
-        "uri": "https://open.spotify.com/show/0g3wgSizc8FYCQTEV1tRO6?si=e9a81f1de9e24031",
-        "author": "Albert Mohler",
-        "other": "0g3wgSizc8FYCQTEV1tRO6"
-    },
-    "2": {
-        "title": "The Morning Wire",
-        "uri": "https://open.spotify.com/show/3YMFdNqoNtVcCBKSUvjr8n?si=8dfd61694d594188",
-        "author": "The Daily Wire",
-        "other": "3YMFdNqoNtVcCBKSUvjr8n"
-    },
-    "3": {
-        "title": "TechCrunch Daily Crunch",
-        "uri": "https://open.spotify.com/show/5yxk2ietkyM0dRr4Jnp7xa?si=9d2ef6f59b624930",
-        "author": "TechCrunch",
-        "other": "5yxk2ietkyM0dRr4Jnp7xa"
-    },
-    "4": {
-        "title": "Wall Street Breakfast",
-        "uri": "https://open.spotify.com/show/05uLjJxkVgQsRk8LWLCLpx?si=f34205563f134e92",
-        "author": "Seeking Alpha",
-        "other": "05uLjJxkVgQsRk8LWLCLpx"
-    },
-    "5": {
-        "title": "Everything Everywhere Daily",
-        "uri": "https://open.spotify.com/show/2CrsGIq5kZ1tdhfR8ErLjV?si=17af44b51f334efd",
-        "author": "Gary Arndt",
-        "other": "2CrsGIq5kZ1tdhfR8ErLjV"
-    }
+   "1": {
+       "title": "Everything Everywhere Daily",
+       "uri": "https://open.spotify.com/show/2CrsGIq5kZ1tdhfR8ErLjV?si=c1a82edac9454594",
+       "author": "Gary Arndt",
+       "other": "2CrsGIq5kZ1tdhfR8ErLjV"
+   },
+   "2": {
+       "title": "The Rest is History",
+       "uri": "https://open.spotify.com/show/7Cvsbcjhtur7nplC148TWy",
+       "author": "Goalhanger Podcasts",
+       "other": "7Cvsbcjhtur7nplC148TWy"
+   }
 }
